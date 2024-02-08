@@ -1,0 +1,14 @@
+<script>
+  // Initialize the agent at application startup.
+  // Some ad blockers or browsers will block Fingerprint CDN URL.
+  // To fix this, please use the NPM package instead.
+  const fpPromise = import('https://fpjscdn.net/v3/qgm6XivLtt9UkaUVMNSS')
+    .then(FingerprintJS => FingerprintJS.load());
+
+  // Get the visitor identifier when you need it.
+  fpPromise
+    .then(fp => fp.get())
+    .then(result => alert(result.visitorId));
+</script>
+
+<h1>VisitorId from <a href="https://dev.fingerprint.com/docs/quick-start-guide">Fingerprint.com</a></h1>
