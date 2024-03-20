@@ -1,0 +1,41 @@
+<html>
+<head>
+    <script src="https://cdn.seondf.com/js/v5/agent.js"></script>
+</head>
+<body>
+<script>
+    var session_id = "XXXXYYYY1234567";
+
+    seon.config({
+        host: "seondf.com",
+        session_id: "[session_id]",
+        audio_fingerprint: true,
+        canvas_fingerprint: true,
+        webgl_fingerprint: true,
+        max_proxy_delay: 1000,
+        onSuccess: function(message) {
+            console.log("success", message);
+        },
+        onError: function(message) {
+            console.log("error", message);
+        }
+    });
+
+
+    var response = seon.getBase64Session(function(data) {
+        if (data) {
+            console.log("Session payload", data);
+        } else {
+            console.log("Failed to retrieve session data.");
+        }
+    });
+
+    alert(response.id);
+</script>
+<h1>fingerprint from <a href="https://docs.seon.io/api-reference/fraud-api#javascript-agent-v5">Seon Javascript Agent
+    v5</a></h1>
+
+<a href="index.html">Back to homepage</a>
+
+</body>
+</html>
