@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "id": "17701",
+      "type": "products",
+      "attributes": {
+        "appearing_to": "2024-07-06T16:00:00.000+01:00",
+        "description": "We all know someone who's always putting others first. That person who offers to help whenever you need it, no questions asked. Want to give them the same royal treatment they show to everyone else? Send our Roya.",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://assets-0.bloomandwild.com/letterbox-main/the-cora-1e2105eb-c18d-47bf-9e9f-72d9d69b1b24/a7a33348-9fb5-40fb-bbb4-21a3cb604ddd.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "The Roya",
+        "prices": [
+          {
+            "price_pennies": 3400,
+            "price_pennies_discounted": 3400,
+            "currency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "id": "48292",
+      "type": "products",
+      "attributes": {
+        "appearing_to": "2024-09-06T16:00:00.000+01:00",
+        "description": "We designed our limited-edition Juliet bouquet in partnership with Liberty. Arriving in a reimagined version of their 'Delft Dream' print, it features some of our favourite stems right now – like coral-tipped roses and mini sunflowers. \r\nAnd for that extra serotonin boost, we've popped a matching Sea Salt and Caramel Milk Chocolate Bar in the box too. Contains milk & soya. May contain traces of gluten, tree nuts, peanuts.",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/letterbox-main/juliet-liberty-ht-the-liberty-sea-salt-caramel-chocolate-mday-flam/5aba40e2-1bde-42a8-a886-315f61c6de71.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/juliet-liberty-ht-the-liberty-sea-salt-caramel-chocolate-mday-flam/80db4878-b4e6-4b40-8947-07cd0b85db3b.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "The Juliet & Liberty Chocolate Bar",
+        "prices": [
+          {
+            "price_pennies": 1000,
+            "price_pennies_discounted": 500,
+            "currency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "id": "48164",
+      "type": "products",
+      "attributes": {
+        "appearing_to": "2024-07-20T16:00:00.000+01:00",
+        "description": "Coral-tipped roses. Mini sunflowers. And creamy scented stocks. Our Juliet combines some of the most smile-lifting stems in our collection right now. So it's guaranteed to spark serotonin. We designed these blooms in partnership with Liberty. And they arrive wrapped in a reimagined version of their 'Delft Dream' print. Fancy giving someone a special kind of boost? Send our Juliet. For the final flourish, add on our limited edition Liberty chocolate and greetings card.",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/letterbox-main/the-rue/0ec6383e-a156-4665-b92d-790384f3bb4b.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "The Jonathon",
+        "prices": [
+          {
+            "price_pennies": 4400,
+            "price_pennies_discounted": 3400,
+            "currency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "id": "48466",
+      "type": "products",
+      "attributes": {
+        "appearing_to": "2024-03-30T16:00:00.000+01:00",
+        "description": "Who’s that friend who always listens? And always gives the best advice? Our Rue, full of roses and carnations, is just as thoughtful. Arriving with a 100g box of milk chocolate truffles, crafted by The Chocolatier, with a beautiful Liberty sleeve. Contains milk & soya.",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/letterbox-main/the-rue-ht-the-liberty-chocolate-truffles-flam/208b4289-d61a-43aa-9b3c-3159cc7f8172.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/the-rue-ht-the-liberty-chocolate-truffles-flam/f52b2359-a659-463a-bec8-7e227b654e14.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "The 'Thanks for Everything' Set",
+        "prices": [
+          {
+            "price_pennies": 3600,
+            "price_pennies_discounted": 3400,
+            "currency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "id": "33442",
+      "type": "products",
+      "attributes": {
+        "appearing_to": "2024-03-31T16:00:00.000+01:00",
+        "description": "Who’s that friend who always listens? And always gives the best advice? Our Rue, full of roses and carnations, is just as thoughtful. Arriving with luxe milk chocolate truffles by The Chocolatier. A 100g box of 40% Ecuadorian milk chocolate truffles, dusted in cocoa powder. Contains milk and soya.",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/letterbox-main/the-rue-ht-the-chocolatier-indulgent-milk-chocolate-truffles-flam/15a10c7a-6e03-4259-b330-67da1b57b20d.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "The Best Birthday Ever Bundle",
+        "prices": [
+          {
+            "price_pennies": 4400,
+            "price_pennies_discounted": 3400,
+            "currency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "id": "33441",
+      "type": "products",
+      "attributes": {
+        "appearing_to": "2024-04-20T16:00:00.000+01:00",
+        "description": "Who’s that friend who always listens? And always gives the best advice? Our Rue, full of roses and carnations, is just as thoughtful. Arrives with our limited-edition liberty brownies, hand-baked by <a href=\"https://www.bloomandwild.com/brands/cutterandsquidge\" target=\"_blank\"><u>Cutter & Squidge.</u></a> exclusively for us. <br><br> <b>Allergens:</b> Soya, egg, milk and gluten. May contain trace sesame, peanuts, nuts and oats.<br><br> <b>Ingredients:</b> <a target=\"_blank\" href=\"https://assets.ctfassets.net/1d9ajmvjpuhw/1ojx7bV9MeS50JtnvwYWwl/8325f343c30c2b3fc2a78075c8ac1738/Liberty_Brownies_Ingredients_List.pdf\"><u>Full ingredients list here.</u></a>",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/letterbox-main/the-rue-ht-the-liberty-letterbox-brownies-addon/48a527a5-26c6-4aae-a65b-a7c8a3b84737.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "The March Birthday Pick",
+        "prices": [
+          {
+            "price_pennies": 5900,
+            "price_pennies_discounted": 5900,
+            "currency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "id": "49916",
+      "type": "products",
+      "attributes": {
+        "appearing_to": "2024-07-06T16:00:00.000+01:00",
+        "description": "Who’s that friend who always listens? And always gives the best advice? Our Rue, full of roses and carnations, is just as thoughtful. Arrives with a 75cl bottle of organic Daylesford Prosecco.",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/letterbox-main/the-rue-ht-organic-prosecco-ht/5ebb3edd-b363-4372-af1d-b4e28e983e55.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/the-rue-ht-organic-prosecco-ht/cb8953c7-cb8d-483a-b53b-01cd82c8e9cb.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "The Luxe Celebration Bundle",
+        "prices": [
+          {
+            "price_pennies": 5900,
+            "price_pennies_discounted": 5900,
+            "currency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "id": "46914",
+      "type": "products",
+      "attributes": {
+        "appearing_to": "2024-05-04T16:00:00.000+01:00",
+        "description": "Sometimes, more really is more. That's why we've designed our Scottie to deliver a double dose of ruffles. Not only does it have two types of roses, but it's also dotted with tulips. And – it gets better. Because they arrive with the bulbs on, you can grow more yourself. These tulips are grown in the UK, and we send with bulbs attached for added freshness. The best bit? The bulbs can be stored, replanted and enjoyed next spring.",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/letterbox-main/the-scottie-ht/e98378aa-a216-43cb-9cb5-e8cf81d168f4.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "The Scottie",
+        "prices": [
+          {
+            "price_pennies": 3400,
+            "price_pennies_discounted": 3400,
+            "currency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "id": "49414",
+      "type": "products",
+      "attributes": {
+        "appearing_to": "2024-05-06T16:00:00.000+01:00",
+        "description": "Shopping for someone who's desperately in need of some downtime? Pick our pillowy-soft Tamsin. As its blooms start to release their soul-soothing aroma, they'll feel any tension start to ease. Ahh. Arriving with three 60g 100% soy candles: one Lavender, one Peony & tuberose and one Bergamot, hand-poured in London just for us (and you).",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/letterbox-main/the-tamsin-ht-uic-lb-spring-candle-trio-addon/fd6d32b1-8f9c-42e8-8abe-cdca0ad3d944.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "The Tamsin & Spring Candle Trio",
+        "prices": [
+          {
+            "price_pennies": 7100,
+            "price_pennies_discounted": 7100,
+            "currency": "GBP"
+          }
+        ]
+      }
+    }
+  ]
+}
